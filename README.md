@@ -51,12 +51,12 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 **Tampilan Desktop**
 
-<img src="https://github.com/user-attachments/assets/102d6c9c-c5e4-4a72-8f3b-5da7318ac290" alt="Tampilan Desktop" width="100">
+<img src="https://github.com/user-attachments/assets/102d6c9c-c5e4-4a72-8f3b-5da7318ac290" alt="Tampilan Desktop" width="50%">
 
 **Tampilan Tablet**
 
-<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="100">
+<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="50%">
 
 **Tampilan Mobile**
 
-<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="100">
+<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="50%">
