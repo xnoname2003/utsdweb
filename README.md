@@ -28,7 +28,15 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 ## 📂 Struktur Folder
 
-├── index.html # Halaman utama ├── assets # Folder berisi aset │ ├── css # Folder untuk file CSS │ ├── js # Folder untuk file JavaScript │ └── images # Folder untuk gambar └── README.md # File dokumentasi proyek
+📦src
+ ┣ 📂css
+ ┃ ┗ 📜style.css
+ ┣ 📂img
+ ┃ ┣ 📜close.png
+ ┃ ┗ 📜dblix-fav.png
+ ┣ 📂js
+ ┃ ┗ 📜script.js
+ ┗ 📜.DS_Store
 
 ## 📦 Teknologi yang Digunakan
 
