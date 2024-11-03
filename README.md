@@ -26,18 +26,6 @@ Website ini memiliki beberapa fitur utama, antara lain:
 - **Navigasi Mudah**: Penggunaan navbar yang intuitif agar pengguna dapat menemukan informasi dengan mudah.
 - **Konten Dinamis**: Menggunakan elemen-elemen visual menarik untuk meningkatkan pengalaman pengguna.
 
-## 📂 Struktur Folder
-
-📦src
- ┣ 📂css
- ┃ ┗ 📜style.css
- ┣ 📂img
- ┃ ┣ 📜close.png
- ┃ ┗ 📜dblix-fav.png
- ┣ 📂js
- ┃ ┗ 📜script.js
- ┗ 📜.DS_Store
-
 ## 📦 Teknologi yang Digunakan
 
 - **HTML5**: Untuk struktur dan konten website.
@@ -62,10 +50,13 @@ Website ini memiliki beberapa fitur utama, antara lain:
 ## 📸 Screenshots
 
 **Tampilan Desktop**
-<img src="https://github.com/user-attachments/assets/102d6c9c-c5e4-4a72-8f3b-5da7318ac290" alt="Tampilan Desktop" width="20">
+
+<img src="https://github.com/user-attachments/assets/102d6c9c-c5e4-4a72-8f3b-5da7318ac290" alt="Tampilan Desktop" width="100">
 
 **Tampilan Tablet**
-<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="20">
+
+<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="100">
 
 **Tampilan Mobile**
-<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="20">
+
+<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="100">
