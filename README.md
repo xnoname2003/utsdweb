@@ -57,10 +57,10 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 **Tampilan Tablet**
 
-<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="20%">
+<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="30%">
 
 
 
 **Tampilan Mobile**
 
-<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="20%">
+<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="30%">
