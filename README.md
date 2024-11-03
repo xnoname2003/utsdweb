@@ -28,17 +28,7 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 ## 📂 Struktur Folder
 
-📦src
- ┣ 📂css
- ┃ ┗ 📜style.css
- ┣ 📂img
- ┃ ┣ 📜close.png
- ┃ ┗ 📜dblix-fav.png
- ┣ 📂js
- ┃ ┗ 📜script.js
- ┗ 📜.DS_Store
-📜index.html
-README.md
+├── index.html # Halaman utama ├── assets # Folder berisi aset │ ├── css # Folder untuk file CSS │ ├── js # Folder untuk file JavaScript │ └── images # Folder untuk gambar └── README.md # File dokumentasi proyek
 
 ## 📦 Teknologi yang Digunakan
 
@@ -56,13 +46,18 @@ README.md
 
 ## 📞 Kontak
 
-- **Email** chaerul4523120@univpancasila.ac.id
-- **Instagram**:[Chaerul Cahyadi](https://www.instagram.com/chaerul_cahyadi/)
+- **Email**: chaerul4523120@univpancasila.ac.id
+- **Instagram**: [Chaerul Cahyadi](https://www.instagram.com/chaerul_cahyadi/)
 - **Thread**: [Chaerul Cahyadi](https://www.threads.net/@chaerul_cahyadi)
 - **Github** [xnoname2003](https://github.com/xnoname2003)
 
 ## 📸 Screenshots
 
-![Tampilan Desktop](https://github.com/user-attachments/assets/102d6c9c-c5e4-4a72-8f3b-5da7318ac290)
-![Tampilan Tablet](https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f)
-![Tampilan Mobile](https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79)
+**Tampilan Desktop**
+<img src="https://github.com/user-attachments/assets/102d6c9c-c5e4-4a72-8f3b-5da7318ac290" alt="Tampilan Desktop" width="600">
+
+**Tampilan Tablet**
+<img src="https://github.com/user-attachments/assets/590d5bd1-343e-45b1-957b-cf6e9530c84f" alt="Tampilan Tablet" width="600">
+
+**Tampilan Mobile**
+<img src="https://github.com/user-attachments/assets/24add02f-5c92-41f5-9982-ea0e5d578c79" alt="Tampilan Mobile" width="600">
