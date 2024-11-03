@@ -42,10 +42,10 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 ## 📞 Kontak
 
-- **Email**: chaerul4523120@univpancasila.ac.id
+- **Email**:     chaerul4523120@univpancasila.ac.id
 - **Instagram**: [Chaerul Cahyadi](https://www.instagram.com/chaerul_cahyadi/)
-- **Thread**: [Chaerul Cahyadi](https://www.threads.net/@chaerul_cahyadi)
-- **Github** [xnoname2003](https://github.com/xnoname2003)
+- **Thread**:    [Chaerul Cahyadi](https://www.threads.net/@chaerul_cahyadi)
+- **Github**:    [xnoname2003](https://github.com/xnoname2003)
 
 ## 📸 Screenshots
 
